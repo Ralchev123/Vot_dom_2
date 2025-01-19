@@ -48,7 +48,7 @@
             "serviceAccountsEnabled": false,
             "authorizationServicesEnabled": true,
             "clientAuthenticatorType": "client-secret",
-            "secret": "Jd3g4wqboo1o18sjm4xac7zRsv65sXr0",
+            "secret": "${KEYCLOAK_CLIENT_SECRET}",
             "defaultRoles": ["user"]
         }
     ],
