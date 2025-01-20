@@ -5,7 +5,7 @@
 2. Run docker
     - docker-compose up --build
     - docker-compose up -d
-    - http://localhost:8000/
+    - [http://localhost:8000/](http://localhost:8000/docs#/)
 3. Setup .env
    - update .env file
      
